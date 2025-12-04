@@ -25,12 +25,3 @@ Bu proje, **Mimar Sinan Güzel Sanatlar Üniversitesi (MSGSÜ)** İstatistik Bö
 ## 🎯 Projenin Amacı
 
 Bu çalışma, hem Python veri analizi becerilerini geliştirmek hem de gerçek bir sınıf verisi üzerinde istatistiksel yorumlama pratiği kazanmak amacıyla yapılmıştır.
-
-## 📊 Histogram
-![Histogram](hist_olasilik_vize.png)
-
-## 📈 Scatter Plot
-![Scatter Plot](scatter_olasilik_vize.png)
-
-## 📦 Boxplot
-![Boxplot](boxplot_olasilik_vize.png)
